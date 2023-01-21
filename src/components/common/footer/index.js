@@ -1,11 +1,9 @@
-import React from 'react'
+import React from "react";
 
 const Footer = () => {
-    return (
-        <div>
-            Made by Makz!
-        </div>
-    )
-}
+  return (
+    <div className="absolute-center max-width">Zomato Footer</div>
+  );
+};
 
-export default Footer
+export default Footer;
