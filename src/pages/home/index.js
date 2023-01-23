@@ -5,7 +5,7 @@ import Header from "../../components/common/header";
 import TabOptions from "../../components/common/tabOptions";
 import Delivery from "../../components/delivery";
 import DiningOut from "../../components/diningOut";
-import Nightlife from "../../components/nightLife";
+import Nightlife from "../../components/nightlife";
 
 const HomePage = () => {
     const [activeTab, setActiveTab] = useState("Delivery");
